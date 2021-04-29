@@ -16,6 +16,7 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 
 ## Libraries and tools for planetary mapping data analysis 
 
+* PlanetaryPy - https://planetarypy.org
 * SpicePy - https://github.com/AndrewAnnex/SpiceyPy
 
 ## Planetary geologic mapping tools and aids
