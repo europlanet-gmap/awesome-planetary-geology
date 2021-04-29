@@ -4,7 +4,6 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 ## Planetary data processing and basemaps 
 
 * USGS Astrogeology - https://github.com/USGS-Astrogeology
-* 
 
 * USGS ISIS - https://isis.astrogeology.usgs.gov
   * https://github.com/USGS-Astrogeology/ISIS3
@@ -33,7 +32,16 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 * ISIS Support - https://github.com/USGS-Astrogeology/ISIS3/issues
 * PDS Geosciences Node Community - https://geoweb.rsl.wustl.edu/community/ 
 
-## Workshops and training 
+# Planeary geologic mapping - programs and meetings
+
+* USGS Annual Planeary Geolgoic Mappers meetings - https://planetarymapping.wr.usgs.gov/Page/view/Meetings
+
+## Planetary geologic mapping products
+
+* USGS Maps / Products - https://astrogeology.usgs.gov/maps/
+* PLANMAP - https://data.planmap.eu
+
+## Training workshops and schools
 With offline content/tutorials:
 
 * PDS Data Workshops - https://pds-geosciences.wustl.edu/workshops/default.htm
