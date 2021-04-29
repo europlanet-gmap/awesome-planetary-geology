@@ -33,3 +33,11 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 * ISIS Support - https://github.com/USGS-Astrogeology/ISIS3/issues
 * PDS Geosciences Node Community - https://geoweb.rsl.wustl.edu/community/ 
 
+# Workshops and training 
+With offline content/tutorials:
+
+* PDS Data Workshops - https://pds-geosciences.wustl.edu/workshops/default.htm
+* ESA Data worshops - https://www.cosmos.esa.int/web/psa/workshops
+* PLANMAP / GMAP Winter School 2021 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2021-videos/
+  * https://forum.openplanetary.org/c/events/Geology-and-Planetary-Mapping-Winter-School-2021/45
+
