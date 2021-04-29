@@ -52,3 +52,6 @@ With offline content/tutorials:
 * PLANMAP / GMAP Winter School 2021 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2021-videos/
   * https://forum.openplanetary.org/c/events/Geology-and-Planetary-Mapping-Winter-School-2021/45
 
+## Tutorials 
+* Short Qgis Tutorial - https://github.com/USGS-Astrogeology/QGIS_tutorials
+* Tennessee Tech University ArcGIS Pro Tutorials - https://tntechsedgeology.org/tutorials/
