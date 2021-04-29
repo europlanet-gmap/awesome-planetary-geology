@@ -39,6 +39,8 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 ## Planetary geologic mapping products
 
 * USGS Maps / Products - https://astrogeology.usgs.gov/maps/
+  * e.g. Mercury - https://astrogeology.usgs.gov/search?pmi-target=mercury
+  * e.g. Mars - https://astrogeology.usgs.gov/search?pmi-target=mars
 * PLANMAP - https://data.planmap.eu
 
 ## Training workshops and schools
