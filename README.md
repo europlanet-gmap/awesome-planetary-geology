@@ -32,7 +32,7 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 * ISIS Support - https://github.com/USGS-Astrogeology/ISIS3/issues
 * PDS Geosciences Node Community - https://geoweb.rsl.wustl.edu/community/ 
 
-# Planeary geologic mapping - programs and meetings
+## Planeary geologic mapping - programs and meetings
 
 * USGS Annual Planeary Geolgoic Mappers meetings - https://planetarymapping.wr.usgs.gov/Page/view/Meetings
 
