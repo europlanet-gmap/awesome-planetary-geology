@@ -13,6 +13,7 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 ## Web services and web (base) maps
 * JMARS - https://jmars.mars.asu.edu
 * NASA Solar System Treks - https://trek.nasa.gov
+* USGS's PILOT - https://pilot.wr.usgs.gov/
 
 ## Libraries and tools for planetary mapping data analysis 
 
