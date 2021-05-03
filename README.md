@@ -6,8 +6,9 @@ Table of Contents
 
    * [Planetary data processing and basemaps](#planetary-data-processing-and-basemaps)
    * [Web services and web (base) maps](#web-services-and-web-base-maps)
-   * [Libraries and tools for planetary mapping data analysis](#libraries-and-tools-for-planetary-mapping-data-analysis)
+   * [Libraries and tools for planetary mapping data access and analysis](#libraries-and-tools-for-planetary-mapping-data-access-and-analysis)
    * [Planetary geologic mapping tools and aids](#planetary-geologic-mapping-tools-and-aids)
+   * [Tool directories](#tool-directories)
    * [Community support](#community-support)
    * [Planeary geologic mapping - programs and meetings](#planeary-geologic-mapping---programs-and-meetings)
    * [Planetary geologic mapping products](#planetary-geologic-mapping-products)
