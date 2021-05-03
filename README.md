@@ -1,6 +1,20 @@
 # awesome-planetary-geology
 Awesome list of planetary geology and mapping tools, repos, services and websites
 
+Table of Contents
+=================
+
+* [awesome-planetary-geology](#awesome-planetary-geology)
+   * [Planetary data processing and basemaps](#planetary-data-processing-and-basemaps)
+   * [Web services and web (base) maps](#web-services-and-web-base-maps)
+   * [Libraries and tools for planetary mapping data analysis](#libraries-and-tools-for-planetary-mapping-data-analysis)
+   * [Planetary geologic mapping tools and aids](#planetary-geologic-mapping-tools-and-aids)
+   * [Community support](#community-support)
+   * [Planeary geologic mapping - programs and meetings](#planeary-geologic-mapping---programs-and-meetings)
+   * [Planetary geologic mapping products](#planetary-geologic-mapping-products)
+   * [Training workshops and schools](#training-workshops-and-schools)
+   * [Tutorials](#tutorials)
+
 ## Planetary data processing and basemaps 
 
 * USGS Astrogeology - https://github.com/USGS-Astrogeology
