@@ -26,6 +26,7 @@ Table of Contents
 ## Web services and web (base) maps
 * JMARS - https://jmars.mars.asu.edu
 * NASA Solar System Treks - https://trek.nasa.gov
+* USGS Astrogeology [WMS Map Layers](https://astrowebmaps.wr.usgs.gov/webmapatlas/Layers/maps.html)
 * USGS's PILOT - https://pilot.wr.usgs.gov/
 * USGS's POW - https://astrocloud.wr.usgs.gov/index.php?view=pow
   * see Hare (2014) - [LPSC abstract](https://www.hou.usra.edu/meetings/lpsc2014/pdf/2474.pdf)
