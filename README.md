@@ -42,7 +42,6 @@ Table of Contents
 * MARSIS-xDR-READER - https://github.com/europlanet-gmap/MARSIS-xDR-READER.git - Tool for read MARSIS EDR/RDR/RAW data and convert into different formats (numpy, geopackage, shapefile, png, SEG-Y) and/or ingest into postgresql database
 * yutu_radagram_3dmodelling - https://github.com/europlanet-gmap/yutu_radagram_3dmodelling - Tool for create radargrams for 3D visualization of YUTU data
 
-
 ## Planetary geologic mapping tools and aids
 
 * Qgis - https://qgis.org/
@@ -51,7 +50,9 @@ Table of Contents
 * FGDC Symbology for Qgis - https://github.com/afrigeri/geologic-symbols-qgis
 * Mappy (experimental) - https://github.com/europlanet-gmap/mappy - QGIS plugin to ease polygonal maps generation from lines and point
 
-
+## Tool directories
+* PDS Geosciences Node Tools - https://pds-geosciences.wustl.edu/tools/
+* PDS tools - https://pds.nasa.gov/tools/about/
 
 ## Community support
 
