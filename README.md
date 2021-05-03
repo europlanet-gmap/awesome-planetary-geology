@@ -4,7 +4,6 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 Table of Contents
 =================
 
-* [awesome-planetary-geology](#awesome-planetary-geology)
    * [Planetary data processing and basemaps](#planetary-data-processing-and-basemaps)
    * [Web services and web (base) maps](#web-services-and-web-base-maps)
    * [Libraries and tools for planetary mapping data analysis](#libraries-and-tools-for-planetary-mapping-data-analysis)
