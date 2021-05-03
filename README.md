@@ -9,6 +9,7 @@ Awesome list of planetary geology and mapping tools, repos, services and website
   * https://github.com/USGS-Astrogeology/ISIS3
 * NASA ASP - https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/ngt/stereo/
   * https://github.com/NeoGeographyToolkit/StereoPipeline/
+* sharpy (experimental) - https://github.com/europlanet-gmap/sharpy - sharad downlod and preprocess for 3D visualization
 
 ## Web services and web (base) maps
 * JMARS - https://jmars.mars.asu.edu
@@ -26,6 +27,8 @@ Awesome list of planetary geology and mapping tools, repos, services and website
 * Circle Craters - https://github.com/sbraden/circle-craters
 * CraterStats3 - https://github.com/ggmichael/craterstats
 * FGDC Symbology for Qgis - https://github.com/afrigeri/geologic-symbols-qgis
+* Mappy (experimental) - https://github.com/europlanet-gmap/mappy - QGIS plugin to ease polygonal maps generation from lines and point
+
 
 
 ## Community support
