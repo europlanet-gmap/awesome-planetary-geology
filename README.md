@@ -28,6 +28,10 @@ Table of Contents
 * JMARS - https://jmars.mars.asu.edu
 * NASA Solar System Treks - https://trek.nasa.gov
 * USGS's PILOT - https://pilot.wr.usgs.gov/
+* USGS's POW - https://astrocloud.wr.usgs.gov/index.php?view=pow
+  * see Hare (2014) - [LPSC abstract](https://www.hou.usra.edu/meetings/lpsc2014/pdf/2474.pdf)
+* MarSI - https://emars.univ-lyon1.fr/MarsSI/
+  * see Quantin et al. (2018) - [paper](https://doi.org/10.1016/j.pss.2017.09.014)
 
 ## Libraries and tools for planetary mapping data analysis 
 
