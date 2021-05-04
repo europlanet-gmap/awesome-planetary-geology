@@ -83,3 +83,4 @@ With offline content/tutorials:
 ## Tutorials 
 * Short Qgis Tutorial - https://github.com/USGS-Astrogeology/QGIS_tutorials
 * Tennessee Tech University ArcGIS Pro Tutorials - https://tntechsedgeology.org/tutorials/
+* USGS geologic mapping and GIS-related tutorials - https://astrogeology.usgs.gov/facilities/mrctr/gis-tutorials
