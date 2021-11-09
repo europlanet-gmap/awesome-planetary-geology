@@ -86,3 +86,6 @@ With offline content/tutorials:
 * Short Qgis Tutorial - https://github.com/USGS-Astrogeology/QGIS_tutorials
 * Tennessee Tech University ArcGIS Pro Tutorials - https://tntechsedgeology.org/tutorials/
 * USGS geologic mapping and GIS-related tutorials - https://astrogeology.usgs.gov/facilities/mrctr/gis-tutorials
+
+## Spectral data and processing
+* List of spectral indices - https://github.com/davemlz/awesome-spectral-indices
