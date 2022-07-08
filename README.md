@@ -89,3 +89,6 @@ With offline content/tutorials:
 
 ## Spectral data and processing
 * List of spectral indices - https://github.com/davemlz/awesome-spectral-indices
+
+## Visualization tools and plugins
+* Blender GIS - https://github.com/domlysz/BlenderGIS
