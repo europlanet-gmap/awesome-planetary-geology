@@ -44,6 +44,10 @@ Table of Contents
 * MARSIS_EDR-RDR_PDS-Downloader - https://github.com/europlanet-gmap/MARSIS_EDR-RDR_PDS-Downloader - Direct downloader of MARSIS EDR/RDR Data from PDS using only orbit number from user input (csv file or interactively)
 * MARSIS-xDR-READER - https://github.com/europlanet-gmap/MARSIS-xDR-READER.git - Tool for read MARSIS EDR/RDR/RAW data and convert into different formats (numpy, geopackage, shapefile, png, SEG-Y) and/or ingest into postgresql database
 * yutu_radagram_3dmodelling - https://github.com/europlanet-gmap/yutu_radagram_3dmodelling - Tool for create radargrams for 3D visualization of YUTU data
+* Open Source access and vidualisation to public geologic map data:
+  * https://github.com/eleanorlutz/mars_geology_atlas_of_space
+  * https://github.com/eleanorlutz/moon_geology_atlas_of_space
+  * https://github.com/eleanorlutz/topography_atlas_of_space
 
 ## Planetary geologic mapping tools and aids
 
