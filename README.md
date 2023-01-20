@@ -84,8 +84,9 @@ With offline content/tutorials:
 
 * PDS Data Workshops - https://pds-geosciences.wustl.edu/workshops/default.htm
 * ESA Data worshops - https://www.cosmos.esa.int/web/psa/workshops
-* PLANMAP / GMAP Winter School 2021 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2021-videos/
+* PLANMAP / GMAP Winter School 2021 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2021-videos/ - https://www.planetarymapping.eu/391/first-day.html
   * https://forum.openplanetary.org/c/events/Geology-and-Planetary-Mapping-Winter-School-2021/45
+* GMAP Winter School 2022 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2022-videos/ - https://www.planetarymapping.eu/401/first-day.html
 
 ## Tutorials 
 * Short Qgis Tutorial - https://github.com/USGS-Astrogeology/QGIS_tutorials
