@@ -38,6 +38,7 @@ Table of Contents
   * see Quantin et al. (2018) - [paper](https://doi.org/10.1016/j.pss.2017.09.014)
 * MUTED - https://muted.wwu.de
   * see Heyer et al. (2018) - [paper](https://doi.org/10.1016/j.pss.2018.04.015)
+  * see [LPSC 2021 poster](https://lpsc2021.ipostersessions.com/?s=2B-4F-E6-05-BE-A2-7E-7E-C8-67-C5-7F-33-20-0A-F4)
    
 ## Libraries and tools for planetary mapping data access and analysis 
 
