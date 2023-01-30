@@ -36,7 +36,9 @@ Table of Contents
   * see Hare (2014) - [LPSC abstract](https://www.hou.usra.edu/meetings/lpsc2014/pdf/2474.pdf)
 * MarSI - https://emars.univ-lyon1.fr/MarsSI/
   * see Quantin et al. (2018) - [paper](https://doi.org/10.1016/j.pss.2017.09.014)
-
+* MUTED - https://muted.wwu.de
+  * see Heyer et al. (2018) - [paper](https://doi.org/10.1016/j.pss.2018.04.015)
+   
 ## Libraries and tools for planetary mapping data access and analysis 
 
 * PlanetaryPy - https://planetarypy.org
