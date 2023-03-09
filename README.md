@@ -101,3 +101,6 @@ With offline content/tutorials:
 
 ## Visualization tools and plugins
 * Blender GIS - https://github.com/domlysz/BlenderGIS
+
+## Generic Processing tools
+* Raster footprint generator and very large raster data processing - https://grasswiki.osgeo.org/wiki/Large_raster_data_processing
