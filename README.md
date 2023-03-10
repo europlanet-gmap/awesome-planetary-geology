@@ -90,6 +90,7 @@ With offline content/tutorials:
 * PLANMAP / GMAP Winter School 2021 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2021-videos/ - https://www.planetarymapping.eu/391/first-day.html
   * https://forum.openplanetary.org/c/events/Geology-and-Planetary-Mapping-Winter-School-2021/45
 * GMAP Winter School 2022 - https://www.europlanet-gmap.eu/planmap-gmap-ws-2022-videos/ - https://www.planetarymapping.eu/401/first-day.html
+* GMAP Winter School 2023 - https://www.planetarymapping.eu/413/video-sessions-2023.html - https://indico.obspm.fr/event/1713/contributions/ - https://github.com/europlanet-gmap/winter-school-2023
 
 ## Tutorials 
 * Short Qgis Tutorial - https://github.com/USGS-Astrogeology/QGIS_tutorials
