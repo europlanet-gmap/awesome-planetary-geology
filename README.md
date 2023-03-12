@@ -43,6 +43,7 @@ Table of Contents
 ## Libraries and tools for planetary mapping data access and analysis 
 
 * PlanetaryPy - https://planetarypy.org
+* Planetary Data Reader (pdr) - https://github.com/millionconcepts/pdr
 * SpicePy - https://github.com/AndrewAnnex/SpiceyPy
 * sharpy (experimental) - https://github.com/europlanet-gmap/sharpy - sharad downlod and preprocess for 3D visualization
 * MARSIS_EDR-RDR_PDS-Downloader - https://github.com/europlanet-gmap/MARSIS_EDR-RDR_PDS-Downloader - Direct downloader of MARSIS EDR/RDR Data from PDS using only orbit number from user input (csv file or interactively)
