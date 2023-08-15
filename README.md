@@ -57,6 +57,8 @@ Table of Contents
 ## Planetary geologic mapping tools and aids
 
 * Qgis - https://qgis.org/
+* OpenCraterTool - https://github.com/europlanet-gmap/OpenCraterTool
+  * https://github.com/thomasheyer/OpenCraterTool
 * Circle Craters - https://github.com/sbraden/circle-craters
 * CraterStats3 - https://github.com/ggmichael/craterstats
 * FGDC Symbology for Qgis - https://github.com/afrigeri/geologic-symbols-qgis
