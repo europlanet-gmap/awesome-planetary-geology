@@ -57,6 +57,8 @@ Table of Contents
   * https://github.com/eleanorlutz/mars_geology_atlas_of_space
   * https://github.com/eleanorlutz/moon_geology_atlas_of_space
   * https://github.com/eleanorlutz/topography_atlas_of_space
+* planetary-coverage - https://juigitlab.esac.esa.int/python/planetary-coverage - spice-based coverage analysis tool for space missions
+* planetmapper - https://github.com/ortk95/planetmapper - visualising, navigating and mapping Solar System observations.
 
 ## Planetary geologic mapping tools and aids
 
