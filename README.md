@@ -31,6 +31,10 @@ Table of Contents
 * NASA Solar System Treks - https://trek.nasa.gov
 * NASA MMGIS - https://mars.nasa.gov/maps/
 * ACT-REACt Quickmap - http://quickmap.lroc.asu.edu/
+* Astrogeology Analysis Ready Data - https://stac.astrogeology.usgs.gov/docs/
+ * Tutorials - https://stac.astrogeology.usgs.gov/docs/tutorials/
+ * Examples - https://stac.astrogeology.usgs.gov/docs/examples/
+ * Data catalog - https://stacindex.org/catalogs/usgs-astrogeology-ard#/
 * USGS/NASA Published [Interactive Geologic Maps](https://www.usgs.gov/special-topics/planetary-geologic-mapping/interactive-planetary-maps) 
 * USGS [WMS Map Layers](https://astrowebmaps.wr.usgs.gov/webmapatlas/Layers/maps.html)
 * ASU LROC WMS services - http://wms.lroc.asu.edu
@@ -89,8 +93,8 @@ Table of Contents
 * USGS Maps / Products - https://astrogeology.usgs.gov/maps/
   * e.g. Mercury - https://astrogeology.usgs.gov/search?pmi-target=mercury
   * e.g. Mars - https://astrogeology.usgs.gov/search?pmi-target=mars
-* Astrogeology Analysis Ready Data - https://stac.astrogeology.usgs.gov/docs/
 * PLANMAP - https://data.planmap.eu
+* GMAP - https://data.europlanet-gmap.eu
 
 ## Training workshops and schools
 With offline content/tutorials:
