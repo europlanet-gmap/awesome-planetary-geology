@@ -14,6 +14,7 @@ Table of Contents
   - [Community support](#community-support)
   - [Planetary geologic mapping - programs and meetings](#planetary-geologic-mapping---programs-and-meetings)
   - [Planetary geologic mapping products](#planetary-geologic-mapping-products)
+  - [DeepLearning and MachineLearning based mapping tools](#DeepLearning-and-MachineLearning-based-mapping-tools)
   - [Training workshops and schools](#training-workshops-and-schools)
   - [Tutorials](#tutorials)
   - [Spectral data and processing](#spectral-data-and-processing)
@@ -74,6 +75,13 @@ Table of Contents
 * FGDC Symbology for QGIS - https://github.com/afrigeri/geologic-symbols-qgis
 * Mappy (experimental) - https://github.com/europlanet-gmap/mappy - QGIS plugin to ease polygonal maps generation from lines and point
 
+## DeepLearning and MachineLearning based mapping tools
+### Boulder Mapping and counting
+* [BOULDERING](https://github.com/astroNils)
+  * [Automatic Characterization of Boulders on Planetary Surfaces From High-Resolution Satellite Images](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JE008013)
+### Landforms mapping
+  * [DeepLandforms](https://github.com/europlanet-gmap/DeepLandforms)
+    * [DeepLandforms: A Deep Learning Computer Vision Toolset Applied to a Prime Use Case for Mapping Planetary Skylights](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EA002278)
 ## Tool directories
 * PDS Geosciences Node Tools - https://pds-geosciences.wustl.edu/tools/
 * PDS tools - https://pds.nasa.gov/tools/about/
@@ -115,6 +123,8 @@ With offline content/tutorials:
 
 ## Spectral data and processing
 * List of spectral indices - https://github.com/davemlz/awesome-spectral-indices
+* [MoonIndex](https://github.com/europlanet-gmap/MoonIndex) - Chandrayaan-1 M3 Data cube filtration and Spectral Index generator
+  * Article under review
 
 ## Visualization tools and plugins
 * Blender GIS - https://github.com/domlysz/BlenderGIS
