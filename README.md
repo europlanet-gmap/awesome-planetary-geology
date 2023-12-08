@@ -24,7 +24,7 @@ Table of Contents
 ## Planetary data processing and basemaps 
 
 * USGS Astrogeology - https://github.com/USGS-Astrogeology
-  * USGS Astrogeology documentation - https://astrogeology.usgs.gov/docs/ - source at: https://github.com/DOI-USGS/asc-public-docs
+  * USGS-Astro docs - https://astrogeology.usgs.gov/docs/ - source at: https://github.com/DOI-USGS/asc-public-docs
   * USGS ISIS - https://isis.astrogeology.usgs.gov, [GitHub](https://github.com/DOI-USGS/ISIS3)
 * NASA ASP - https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/ngt/stereo/, [GitHub](https://github.com/NeoGeographyToolkit/StereoPipeline/)
 
