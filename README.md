@@ -65,6 +65,7 @@ Table of Contents
   * https://github.com/eleanorlutz/topography_atlas_of_space
 * planetary-coverage - https://juigitlab.esac.esa.int/python/planetary-coverage - spice-based coverage analysis tool for space missions
 * planetmapper - https://github.com/ortk95/planetmapper - visualising, navigating and mapping Solar System observations.
+* CRISM MTRDR python-based data analysis - https://github.com/beatricebs/crism-python-data-analysis
 
 ## Planetary geologic mapping tools and aids
 
