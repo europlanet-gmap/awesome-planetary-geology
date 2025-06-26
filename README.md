@@ -106,6 +106,11 @@ Table of Contents
 * PLANMAP - https://data.planmap.eu
 * GMAP - https://data.europlanet-gmap.eu
 
+## Related tools
+* CraterMaker - https://cratermaker.readthedocs.io/
+  * https://github.com/MintonGroup/cratermaker
+* Impact cratering-related info: https://impacts.wiki
+
 ## Training workshops and schools
 With offline content/tutorials:
 
