@@ -135,6 +135,7 @@ With offline content/tutorials:
 
 ## Visualization tools and plugins
 * Blender GIS - https://github.com/domlysz/BlenderGIS
+* planetary-dem-to-stl (Moon and Mars DEMs to 3D-printable STL terrain) - https://github.com/SimplySolid3D/planetary-dem-to-stl
 
 ## Generic Processing tools
 * Raster footprint generator and very large raster data processing - https://grasswiki.osgeo.org/wiki/Large_raster_data_processing
